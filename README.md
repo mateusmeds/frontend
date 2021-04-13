@@ -1,20 +1,5 @@
-# usuarios_front
-
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+1. Realize o clone desse projeto
+2. Dentro da pasta frontend rode o seguinte comando:
+  - npm install
+3. Rode este outro comando:
+  - npm run dev
